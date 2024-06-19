@@ -1,2 +1,2 @@
 # carter_repostrory
-This repository will have boxplots and barcharts
+This repository will be for my final project.
